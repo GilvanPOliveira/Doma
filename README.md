@@ -26,14 +26,13 @@ Para uma melhoria na eficiência e na comunicação interna, a empresa “Doma�
 •	Para dispositivos Wear OS que incluem alto-falantes, incorpore funcionalidades de áudio para enriquecer a experiência do usuário.
 •	Exemplos de uso incluem alarmes de relógio com notificações sonoras, apps de fitness com instruções de voz para exercícios, e apps educativos com feedback auditivo.
 
+## Foram utilizados nesse projeto:
+
+- Tecnologias: Java e AndroidStudio
+
 ## Imagens do App em execução:
 <div align="center">
  <img src="https://i.imgur.com/5NYzik2.png" height="200" />
  <img src="https://i.imgur.com/sbiz1Uo.png" height="200" />
  <img src="https://i.imgur.com/dFZiCfD.png" height="200" />
 </div>
-
-## Foram utilizados nesse projeto:
-
-- Tecnologias: Java e AndroidStudio
-
